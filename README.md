@@ -13,6 +13,10 @@ Below is the stock results for all of 2018, and we can see that the market had a
 Below is the stock results for 2017. The market was much better than 2018, with only one negative return at -7.2%. This was a much better year for the market.
 <img width="230" alt="Screen Shot 2022-01-03 at 12 31 06 PM" src="https://user-images.githubusercontent.com/95194554/147967913-4ed60eeb-73f3-4696-b625-fedce340ebc4.png">
 ### Code in VBA
-Below is the code I used to analyze the market.
+Above is the code I used to analyze the market.
 <img width="486" alt="Screen Shot 2022-01-03 at 12 50 57 PM" src="https://user-images.githubusercontent.com/95194554/147968054-3b4822ab-0e96-4fd3-8c27-8024f2f7b57c.png">
-
+## Summary
+### Advantages and Disadvantages of refactoring code
+As we can see there are some pros and cons of refactoring the code. Some pros are it makes our code cleaner and it runs faster. It also helps Steve because it is easier for him to read and analyze. 
+### Advantages and disadvantages of the old vs refactored code
+The refactored code is much easier to read and much faster. It also helps us ba able to go back and edit if we need to. It decreased the time taken to analyze the market. However, with the old code it was much quicker and easier to write. 
